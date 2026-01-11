@@ -9,7 +9,7 @@
     "emailjs-com": "^2.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-use-form-state": "^0.12.1"
   },
   "scripts": {
